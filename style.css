@@ -1,0 +1,8 @@
+.content {
+    width: 95%;
+    margin: 0 auto;
+    height: fit-content;
+    background-image: url(img/bg_header_shape_desktop_version.png);
+    background-repeat: no-repeat;
+    background-size: calc(100%);       
+}
